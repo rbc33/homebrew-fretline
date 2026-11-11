@@ -1,6 +1,6 @@
 cask "fretline" do
   version "0.1.0"
-  sha256 "f467646b6a05da3abb650e40a32e69262b715c369ca935188ce6478c55f6e7e5"
+  sha256 "b426fc8ba7229ad0e1ee1acb9a125aeb8940e98472218ab01ae92429703e4f6c"
 
   url "https://github.com/rbc33/Fretline/releases/download/v#{version}/Fretline-#{version}.dmg"
   name "Fretline"
