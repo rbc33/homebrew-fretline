@@ -1,6 +1,6 @@
 cask "fretline" do
   version "0.1.0"
-  sha256 :no_check # release.sh lo sustituye por el sha256 real del .dmg
+  sha256 "f467646b6a05da3abb650e40a32e69262b715c369ca935188ce6478c55f6e7e5"
 
   url "https://github.com/rbc33/Fretline/releases/download/v#{version}/Fretline-#{version}.dmg"
   name "Fretline"
